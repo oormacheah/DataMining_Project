@@ -3,6 +3,8 @@ from Utils import *
 from similarity import *
 from itertools import combinations
 
+# This code not needed anymore + the dataset has been deleted
+
 df = pd.DataFrame()
 n_distinct = 500
 
